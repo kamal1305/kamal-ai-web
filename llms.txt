@@ -1,0 +1,19 @@
+# Kamal AI
+
+> Laboratorio personal de IA en Jerez de la Frontera (España). Biblioteca abierta de herramientas de IA probadas en proyectos reales: cada ficha indica qué es la herramienta, su enlace oficial y en qué proyecto se probó. Si una herramienta no se ha probado, la ficha lo dice.
+
+## Biblioteca
+- [Biblioteca de herramientas de IA](https://kamal-ai-web.vercel.app/#biblioteca): 11 fichas — Hallmark, Claude Code, Pipecat, AiSOC, Hyperframes, Google Flow, ElevenLabs, Playwright, WA-AKG, repos OSINT, automatizaciones de Meta
+- [Guía: automatizaciones gratis de Meta](https://kamal-ai-web.vercel.app/guia-automatizaciones-meta.html)
+
+## Builds
+- [Team Match Manager](https://teammatchmanager.app): app para delegados de fútbol base
+- [SportPhysio, agente de voz](https://sportphysio-citas-app.vercel.app): reservas y agente telefónico (Pipecat, Cal.com, ElevenLabs)
+- [NexusCore Energy CRM y webs locales](https://kamal-ai-web.vercel.app/#builds)
+
+## Agencia
+- [Agentes 24/7 para negocios pequeños](https://kamal-ai-web.vercel.app/#agencia): WhatsApp, teléfono y reservas; en preparación
+
+## Optional
+- [Instagram @kamalai.lab](https://www.instagram.com/kamalai.lab)
+- [Facebook Kamal AI](https://www.facebook.com/kamalai.es)
